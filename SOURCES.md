@@ -18,3 +18,12 @@ Reviewed on 19 October 2026 using public official pages and official indexed des
 [English](https://github.com/Airbotix-AI/free-english-reading-resources-for-kids-australia) · [简体中文](https://github.com/Airbotix-AI/free-english-reading-resources-for-kids-australia-zh) · [한국어](https://github.com/Airbotix-AI/free-english-reading-resources-for-kids-australia-ko)
 
 [README](README.md) · [Year-by-year guide](YEAR-GUIDE.md) · [Free access and choosing a resource](FREE-SCOPE.md) · [Complete original reading examples](EXAMPLES.md) · [Articles and related repositories](RESOURCES.md) · [Official evidence and review method](SOURCES.md) · [Contributing](CONTRIBUTING.md) · [Licence](LICENSE.md)
+
+## 2026-10-19
+
+- [Unite for Literacy](https://www.uniteforliteracy.com/corp/faq)
+- [Reading Rockets: Reading Adventure Packs](https://www.readingrockets.org/literacy-home/literacy-tips-activities/reading-adventure-packs)
+- [Storynory](https://www.storynory.com/stella-and-the-surprise-delivery/)
+- [Oxford Owl: activity sheets](https://home.oxfordowl.co.uk/kids-activities/)
+- [Words for Life — National Literacy Trust](https://literacytrust.org.uk/communities/rotherham/for-families/)
+- [NSW Stage 5 reading strategies](https://education.nsw.gov.au/teaching-and-learning/curriculum/literacy-and-numeracy/teaching-and-learning-resources/literacy/teaching-strategies/stage-5/reading)

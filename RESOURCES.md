@@ -20,3 +20,7 @@ Choose the matching language where offered. These directories answer related fam
 [English](https://github.com/Airbotix-AI/free-english-reading-resources-for-kids-australia) · [简体中文](https://github.com/Airbotix-AI/free-english-reading-resources-for-kids-australia-zh) · [한국어](https://github.com/Airbotix-AI/free-english-reading-resources-for-kids-australia-ko)
 
 [README](README.md) · [Year-by-year guide](YEAR-GUIDE.md) · [Free access and choosing a resource](FREE-SCOPE.md) · [Complete original reading examples](EXAMPLES.md) · [Articles and related repositories](RESOURCES.md) · [Official evidence and review method](SOURCES.md) · [Contributing](CONTRIBUTING.md) · [Licence](LICENSE.md)
+
+## Airbotix cheatsheets: read and share
+
+[Airbotix cheatsheets: read and share](CHEATSHEETS.md)
