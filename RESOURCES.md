@@ -24,3 +24,9 @@ Choose the matching language where offered. These directories answer related fam
 ## Airbotix cheatsheets: read and share
 
 [Airbotix cheatsheets: read and share](CHEATSHEETS.md)
+
+## Dedicated Airbotix cheatsheet repository
+
+[Dedicated Airbotix cheatsheet repository](https://github.com/Airbotix-AI/australian-school-cheatsheets)
+
+[English](https://github.com/Airbotix-AI/australian-school-cheatsheets) · [简体中文](https://github.com/Airbotix-AI/australian-school-cheatsheets-zh) · [한국어](https://github.com/Airbotix-AI/australian-school-cheatsheets-ko)
